@@ -37,9 +37,37 @@ Deverão ser prototipadas, no mínimo, 3 telas. São elas:
  - O carrinho de compras deve ser facilmente acessível e navegável, com opções claras de adicionar, remover e atualizar itens.
 -   Deve haver uma confirmação clara antes da finalização da compra.
 
-### Personas, características e necessidades
+### Alguns usuários do sistema 
 
-
+1.  **Pessoas com Deficiência Visual:**
+        -   Utilizam leitores de tela, podem ter baixa visão e necessitam de uma interface de usuário amigável e compatível com tecnologia assistiva.
+        
+2.  **Pessoas com Deficiência Motora:**
+        -   Dependem de interfaces que suportem controle por voz, teclado ou outros dispositivos de entrada alternativos. A navegação deve ser simplificada e acessível.
+        
+3.  **Idosos:**    
+    -   Preferem interfaces simples e intuitivas, com opções de ajuste de fonte, contraste e facilidade de navegação. Valorizam informações claras e procedimentos simples de compra.
+   
+4.  **Pessoas com Deficiência Cognitiva:**    
+    -   Podem se beneficiar de uma interface intuitiva, linguagem clara e opções de navegação simples. Informações visuais e textuais devem ser apresentadas de maneira compreensível.
+    
+5.  **Pessoas com Deficiência Auditiva:**    
+    -   Embora a deficiência auditiva não esteja diretamente relacionada à experiência online, garantir legendas em vídeos e disponibilizar informações visuais é importante para inclusão.
+    
+6.  **Pessoas com Condições de Saúde Crônicas:**    
+    -   Aquelas com condições que afetam a mobilidade podem se beneficiar de interfaces simplificadas e opções de navegação adaptativas.
+    
+7.  **Cuidadores e Familiares:**    
+    -   Pessoas que compram em nome de indivíduos com deficiência, buscando plataformas que facilitem a navegação e a compra em nome de outros.
+    
+8.  **Pessoas com Baixa Proficiência Tecnológica:**    
+    -   Indivíduos que podem não estar familiarizados com tecnologias modernas. Uma interface intuitiva, com suporte e instruções claras, é crucial para garantir a acessibilidade.
+    
+9.  **Pessoas em Situações Temporárias de Restrição de Mobilidade:**    
+    -   Aquelas que temporariamente enfrentam restrições de mobilidade devido a lesões ou cirurgias podem se beneficiar de uma plataforma acessível.
+    
+10.  **Clientes Internacionais:**  
+-   Considerando a diversidade cultural e linguística, uma plataforma que suporte diferentes idiomas e moedas é crucial para atender a clientes internacionais, proporcionando uma experiência inclusiva.
  
 
 ## Etapa 2: Avaliação do protótipo de interface
