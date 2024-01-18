@@ -12,12 +12,12 @@ Os participantes terão a oportunidade de criar uma interface a partir das ferra
 
 ## Etapa 1: Desenvolvimento de um protótipo de interface
 
-Nesta etapa, o objetivo principal dos participantes será desenvolver um protótipo de uma página Web ou aplicativo de [comércio eletrônico](https://rockcontent.com/br/blog/e-commerce-guia/) de venda de roupas e/ou calçado.
+Nesta etapa, o objetivo principal dos participantes será desenvolver um protótipo de uma página Web ou aplicativo de [comércio eletrônico](https://rockcontent.com/br/blog/e-commerce-guia/) de venda de roupas.
 Para isso, os participantes deverão considerar as especificações do [Guia de Boas-Práticas de Acessibilidade Digital](https://www.gov.br/governodigital/pt-br/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf) e as [Diretrizes de Acessibilidade para Conteúdo da Web](https://www.w3.org/TR/WCAG21/) .
 
  - Não é necessário codificar e implementar o projeto criado, apenas as telas já são suficientes.
  - Você poderá escolher desenhar as telas para qualquer dispositivo (móvel ou desktop), mas é necessário considerar o design adequado para a sua escolha.
- - Caso você não tenha tanta familiaridade com as ferramentas de prototipação, crie os protótipos em papel, com papel e caneta. 
+ - Caso você não tenha tanta familiaridade com as ferramentas de prototipação, crie os protótipos de baixa fidelidade, com papel e caneta. 
 
 ### Telas
 
@@ -74,4 +74,4 @@ Deverão ser prototipadas, no mínimo, 3 telas. São elas:
 
 Nesta etapa os participantes farão a avaliação do protótipo, com base na [Checklist de Conformidade da WCAG](https://www.a11yproject.com/checklist/). 
 
-Ao final, os participantes deverão entregar a Checklist completa e detalhar, **quais foram os recursos de acessibilidade que conseguiram implementar na interface e quais poderiam ser implementados.** 
+Ao final, os participantes deverão entregar a Checklist completa e detalhar em um relatório final, **quais foram os recursos de acessibilidade que conseguiram implementar na interface e quais poderiam ser implementados. Além disso, quais novas avaliações realizaria para verificar a acessibilidade do sistema**. 
