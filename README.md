@@ -12,16 +12,16 @@ Os participantes terão a oportunidade de criar uma interface a partir das ferra
 
 ## Etapa 1: Desenvolvimento de um protótipo de interface
 
-Nesta etapa, o objetivo principal dos participantes será desenvolver um protótipo de uma página Web ou aplicativo de [comércio eletrônico](https://rockcontent.com/br/blog/e-commerce-guia/) de venda de roupas.
+Nesta etapa, o objetivo principal dos participantes será desenvolver um protótipo/esboço de uma página Web ou aplicativo de [comércio eletrônico](https://rockcontent.com/br/blog/e-commerce-guia/) de venda de roupas.
 Para isso, os participantes deverão considerar as especificações do [Guia de Boas-Práticas de Acessibilidade Digital](https://www.gov.br/governodigital/pt-br/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf) e as [Diretrizes de Acessibilidade para Conteúdo da Web](https://www.w3.org/TR/WCAG21/) .
 
- - Não é necessário codificar e implementar o projeto criado, apenas as telas já são suficientes.
- - Você poderá escolher desenhar as telas para qualquer dispositivo (móvel ou desktop), mas é necessário considerar o design adequado para a sua escolha.
- - Caso você não tenha tanta familiaridade com as ferramentas de prototipação, crie os protótipos de baixa fidelidade, com papel e caneta. 
+ - Não é necessário codificar e implementar o projeto criado, apena a tela já será suficiente.
+ - Você poderá escolher desenhar a tela para qualquer dispositivo (móvel ou desktop), mas é necessário considerar o design adequado para a sua escolha.
+ - Caso você não tenha tanta familiaridade com as ferramentas de prototipação, crie o protótipo em baixa fidelidade, com papel e caneta. 
 
 ### Telas
 
-Deverão ser prototipadas, no mínimo, 3 telas. São elas: 
+Ao menos **UMA** tela deverá ser prototipada. Escolha uma das opções abaixo: 
 
  - Tela de cadastro do usuário; 
  - Tela de apresentação do produto; 
@@ -74,4 +74,10 @@ Deverão ser prototipadas, no mínimo, 3 telas. São elas:
 
 Nesta etapa os participantes farão a avaliação do protótipo, com base na [Checklist de Conformidade da WCAG](https://www.a11yproject.com/checklist/). 
 
-Ao final, os participantes deverão entregar a Checklist completa e detalhar em um relatório final, **quais foram os recursos de acessibilidade que conseguiram implementar na interface e quais poderiam ser implementados. Além disso, quais novas avaliações realizaria para verificar a acessibilidade do sistema**. 
+Ao final, os participantes deverão entregar a Checklist completa e preencher o relatório final (modelo disponível no github), destacando **quais foram os recursos de acessibilidade que conseguiram implementar na interface e quais poderiam ser implementados.** 
+
+## Links úteis
+
+ - [Guia WCAG](https://guia-wcag.com/)
+ - [Criar aplicativos de tela acessíveis](https://learn.microsoft.com/pt-br/power-apps/maker/canvas-apps/accessible-apps)
+ - [Acessibilidade na Web](https://www.handtalk.me/br/blog/acessibilidade-na-web/)
