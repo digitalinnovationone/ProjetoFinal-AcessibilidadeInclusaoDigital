@@ -74,6 +74,7 @@ Ao menos **UMA** tela deverá ser prototipada. Escolha uma das opções abaixo:
 
 Nesta etapa os participantes farão a avaliação do protótipo, com base na [Checklist de Conformidade da WCAG](https://www.a11yproject.com/checklist/). 
 
+# Itens para entrega
 Ao final, os participantes deverão entregar a Checklist completa e preencher o relatório final (modelo disponível no github), destacando **quais foram os recursos de acessibilidade que conseguiram implementar na interface e quais poderiam ser implementados.** 
 
 ## Links úteis
